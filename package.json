@@ -1,5 +1,5 @@
 {
-  "name": "kshetra",
+  "name": "magazine",
   "version": "1.0.0",
   "description": "kshetra_bot",
   "main": "index.js",
@@ -10,7 +10,15 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.1",
-    "express": "^4.13.4",
+    "express": "^4.14.0",
     "request": "^2.72.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "kshetra"
+  },
+  "keywords": [
+    "kshetra"
+  ]
 }
